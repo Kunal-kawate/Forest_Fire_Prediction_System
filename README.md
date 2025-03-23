@@ -35,7 +35,7 @@ Forest-Fire-Prediction-System/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Forest-Fire-Prediction-System.git
+git clone https://github.com/Kunal-kawate/Forest_Fire_Prediction_System.git
 cd Forest-Fire-Prediction-System
 ```
 
